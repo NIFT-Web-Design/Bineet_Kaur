@@ -1,0 +1,672 @@
+
+body{
+  background-color: white;
+}
+header{
+  background-color: white;
+}
+
+.tabs1{
+  position: absolute;
+  width: 96px;
+  height: 28px;
+  left: 559px;
+  top: 100px;
+
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 50px;
+
+
+position: absolute;
+width: 143px;
+height: 52px;
+left: 536px;
+top: 62px;
+
+background: #D7B935;
+border-radius: 14px;
+text-align: center;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+.tabs2{
+  position: absolute;
+  width: 108px;
+  height: 28px;
+  left: 750px;
+  top: 74px;
+
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+.tabs3{
+
+  position: absolute;
+  width: 82px;
+  height: 28px;
+  left: 946px;
+  top: 74px;
+
+  font-family: 'Tenor Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height */
+
+
+  color: #000000;
+}
+
+.tabs4{
+  position: absolute;
+width: 128px;
+height: 28px;
+left: 1115px;
+top: 74px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.tabs5{
+
+position: absolute;
+width: 92px;
+height: 28px;
+left: 1331px;
+top: 74px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+
+#logo{
+
+  position: absolute;
+  width: 180px;
+  height: 101px;
+  left: 79px;
+  top: 50px;
+
+
+
+}
+
+.image{
+
+
+position: absolute;
+width: 1512px;
+height: 1000px;
+left: 0px;
+top: 182px;
+opacity: 0.5;}
+
+.fontlogo{
+
+  position: absolute;
+  width: 760px;
+  height: 550px;
+  left: 407px;
+  top: 268px;
+  }
+.tagline{
+
+
+position: absolute;
+width: 250px;
+height: 28px;
+left: 829px;
+top: 580px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #2E1E0F;
+}
+.booknow{
+  position: absolute;
+width: 239px;
+height: 61px;
+left: 651px;
+top: 840px;
+
+}
+.booknow{
+  position: absolute;
+width: 160px;
+height: 28px;
+left: 700px;
+top: 856px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+    padding: 8px;
+    background: #2E1E0F;
+border-radius: 14px;
+}
+.info{
+  position: absolute;
+width: 1512px;
+height: 256px;
+left: 0px;
+top: 980px;
+
+
+background: #D7B935;
+
+}
+.text{
+  position: absolute;
+width: 982px;
+height: 41px;
+left: 280px;
+top: 1040px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #2E1E0F;
+
+}
+.serv{
+  position: absolute;
+width: 1512px;
+height: 726px;
+left: 0px;
+top: 1237px;
+
+background: #FFFFFF;
+}
+
+.texthead{
+
+  position: absolute;
+width: 192px;
+height: 60px;
+left: 670px;
+top: 1300px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #000000;
+}
+.text1{
+
+position: absolute;
+width: 113px;
+height: 37px;
+left: 220px;
+top: 1800px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+}
+.text2{
+
+position: absolute;
+width: 208px;
+height: 37px;
+left: 670px;
+top: 1800px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+
+}
+.text3{
+
+position: absolute;
+width: 171px;
+height: 37px;
+left: 1170px;
+top: 1800px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+
+}
+.services1{
+  position: absolute;
+width: 376px;
+height: 349px;
+left: 89px;
+top: 1461px;
+
+opacity: 0.7;
+border-radius: 95px;
+}
+
+.services2{
+  position: absolute;
+width: 376px;
+height: 340px;
+left: 568px;
+top: 1461px;
+
+opacity: 0.7;
+border-radius: 90px;
+}
+
+.services3{
+  position: absolute;
+width: 376px;
+height: 349px;
+left: 1047px;
+top: 1461px;
+
+
+opacity: 0.7;
+border-radius: 95px;
+}
+
+.about{
+  position: absolute;
+width: 1512px;
+height: 880px;
+left: 0px;
+top: 1963px;
+
+background: #2E1E0F;
+
+}
+.abouthead{
+  position: absolute;
+width: 215px;
+height: 56px;
+left: 675px;
+top: 2083px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #FFFFFF;
+}
+.tatoopic{
+
+position: absolute;
+width: 469px;
+height: 442px;
+left: 193px;
+top: 2277px;
+
+
+opacity: 0.7;
+border-radius: 95px;
+}
+
+.aboutexthead{
+  position: absolute;
+width: 252px;
+height: 42px;
+left: 789px;
+top: 2412px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+}
+.abouttextcon{
+  position: absolute;
+width: 484px;
+height: 115px;
+left: 789px;
+top: 2498px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+}
+
+.gallery{
+
+position: absolute;
+width: 1512px;
+height: 1182px;
+left: 0px;
+top: 2945px;
+
+background: #FFFFFF;
+}
+.galhead{
+
+position: absolute;
+width: 163px;
+height: 56px;
+left: 675px;
+top: 2910px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #2E1E0F;
+
+}
+
+.photo1{
+
+position: absolute;
+width: 406px;
+height: 349px;
+left: 115px;
+top: 3179px;
+
+
+border-radius: 63px;
+}
+.photo2{
+
+position: absolute;
+width: 406px;
+height: 473px;
+left: 553px;
+top: 3179px;
+
+
+border-radius: 54px;
+}
+
+.photo3{
+
+  position: absolute;
+  width: 406px;
+  height: 473px;
+  left: 115px;
+  top: 3564px;
+
+
+  border-radius: 53px;
+}
+
+.photo4{
+
+position: absolute;
+width: 406px;
+height: 349px;
+left: 991px;
+top: 3179px;
+
+
+border-radius: 74px;
+}
+.photo5{
+  position: absolute;
+width: 406px;
+height: 349px;
+left: 553px;
+top: 3688px;
+
+
+border-radius: 66px;
+}
+
+.photo6{
+  position: absolute;
+width: 406px;
+height: 473px;
+left: 991px;
+top: 3564px;
+
+border-radius: 63px;
+}
+
+.artist{
+
+position: absolute;
+width: 1512px;
+height: 1061px;
+left: 0px;
+top: 4127px;
+
+background: #D7B935;
+}
+
+.Artisthead{
+  position: absolute;
+width: 255px;
+height: 56px;
+left: 618px;
+top: 4234px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 56px;
+
+color: #2E1E0F;
+}
+
+.img1{
+
+position: absolute;
+width: 350px;
+height: 500px;
+left: 276px;
+top: 4400px;
+
+
+border-radius: 63px;
+}
+
+.img2{
+
+position: absolute;
+width: 350px;
+height: 500px;
+left: 767px;
+top: 4400px;
+
+border-radius: 63px;
+
+}
+
+.name1{
+
+position: absolute;
+width: 296px;
+height: 37px;
+left: 320px;
+top: 4900px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+
+}
+
+.name2{
+
+  position: absolute;
+width: 278px;
+height: 37px;
+left: 825px;
+top: 4900px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 37px;
+
+color: #000000;
+}
+
+.contact{
+  position: absolute;
+width: 1512px;
+height: 1004px;
+left: 0px;
+top: 5184px;
+
+background: #FFFFFF;
+}
+
+.img3{
+
+position: absolute;
+width: 1512px;
+height: 475px;
+left: 0px;
+top: 5275px;
+
+opacity: 0.4;
+}
+
+.conhead{
+
+position: absolute;
+width: 214px;
+height: 47px;
+left: 649px;
+top: 5450px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 100px;
+text-align: center;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+position: absolute;
+width: 370px;
+height: 115px;
+left: 571px;
+top: 5450px;
+
+background: #2E1E0F;
+border-radius: 32px;
+}
+
+.context{
+  position: absolute;
+width: 437px;
+height: 28px;
+left: 941px;
+top: 5928px;
+
+font-family: 'Tenor Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #2E1E0F;
+
+}
+
+.img4{
+  position: absolute;
+width: 221px;
+height: 172px;
+left: 1000px;
+top:5980px;
+}
+
+.img5{
+  position: absolute;
+width: 450px;
+height: 322px;
+left: 339px;
+top: 5817px;
+
+}
+.img6{
+  position: absolute;
+width: 400px;
+height: 245px;
+left: 100px;
+top: 5849px;
+}
